@@ -4,8 +4,7 @@
   "description": "Day 1 ",
   "main": "app.js",
   "scripts": {
-    "test": "nodemon app.js",
-    "start": "node app.js"
+    "test": "nodemon app.js"
   },
   "author": "",
   "license": "ISC",
